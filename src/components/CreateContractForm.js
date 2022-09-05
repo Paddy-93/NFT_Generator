@@ -3,7 +3,7 @@ import { useSigner } from 'wagmi'
 
 import { ContractFactory, utils } from 'ethers';
 import { simpleNftJson } from '../contracts/SimpleNftJson';
-import { StyledButton, StyledForm, StyledLabel } from '../AppStyles.styles.tw';
+import { StyledButton, StyledForm, StyledInput, StyledLabel } from '../AppStyles.styles.tw';
 
 
 const CreateContractForm = () => {
@@ -46,7 +46,7 @@ const CreateContractForm = () => {
                 return (
                   <div key={constructor.name} className='flex justify-center mb-2'>
                     <StyledLabel className='' htmlFor={constructor.name}>{constructor.label} : </StyledLabel>
-                    <input className="w-fit rounded-xl text-center shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" onChange={handleInputChange} type="input" name={constructor.name} id={constructor.name} value={constructor.value}/>
+                    <StyledInput  onChange={handleInputChange} type="input" name={constructor.name} id={constructor.name} value={constructor.value}/>
                   </div>
                 )
               })
