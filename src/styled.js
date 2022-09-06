@@ -6,7 +6,7 @@ export const StyledNav = styled.div`
     margin-top:1%;
     margin-bottom:1%;
     font-weight: 600;
-
+    display: flex;
 
 
     a:link { 

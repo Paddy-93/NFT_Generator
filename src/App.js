@@ -40,13 +40,11 @@ const App = () => {
   return (
     <WagmiConfig client={wagmiClient}>
       <RainbowKitProvider chains={chains}>
-    
-    
       <ConnectWalletButton/>
       <Navbar/>
       <Routes>
         <Route exact path="/new" element={<ContractCreate/>}/>
-        <Route exact path="/myproject" element={<MyProject/>}/>
+        <Route exact path="/projects/:contractId" element={<MyProject/>}/>
       </Routes>
       </RainbowKitProvider>
     </WagmiConfig>

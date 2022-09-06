@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react'
 import { useSigner, useContractRead, useContractReads } from 'wagmi'
 
 import { StyledButton, StyledForm, StyledInput, StyledLabel } from '../../AppStyles.styles.tw';
+import { useParams } from 'react-router'
 import { utils, BigNumber } from 'ethers';
 import ToggleButton from './ToggleButton';
 
@@ -10,14 +11,15 @@ import { simpleNftJson } from '../../contracts/SimpleNftJson';
 
 const MyProjectCard = () => {
   const { data: signer } = useSigner()
+  const { contractId } = useParams()
 
   const initialTextInputData = [
     {name: "hiddenMetaUri", value: "", label: "Hidden Metadata URI ", readFunction: "hiddenMetadataUri", inputType: "text", writeFunction: "setHiddenMetadataUri"},
     {name: "metaURI", value: "", label: "Metadata URI ", readFunction: "uriPrefix", inputType: "text", writeFunction: "setUriPrefix"},
     {name:"price", value: 0.5, label: "Price ", readFunction:"cost", inputType: "number", writeFunction: "setCost"},
     {name: "maxMintAmount", value: 5, label: "Max Mint Amount ", readFunction: "maxMintAmountPerTx", inputType: "number", writeFunction: "setMaxMintAmountPerTx"},
-    {name:"pause", value: null, label: "Paused ", readFunction:"paused", inputType: "toggle", writeFunction: "setPaused"},
-    {name: "reveal", value: null, label: "Revealed ", readFunction: "revealed", inputType: "toggle", writeFunction: "setRevealed"}
+    {name: "reveal", value: null, label: "Hide", readFunction: "revealed", inputType: "toggle", writeFunction: "setRevealed", falseLabel: "Reveal"},
+    {name:"pause", value: null, label: "Unpause", readFunction:"paused", inputType: "toggle", writeFunction: "setPaused", falseLabel: "Pause"},
     
   ]
 
@@ -26,7 +28,7 @@ const MyProjectCard = () => {
 
   /*Create Contract Object*/
   const simpleNftContract = {
-    addressOrName: '0x528cbda59d3f7436d6223e946a358d6e71638275',
+    addressOrName: contractId,
     contractInterface: simpleNftJson.abi,
   }
 
@@ -45,9 +47,9 @@ const MyProjectCard = () => {
     contracts: contractReads,
     onSuccess(data) {
       const newData =  textInputData.map((item,idx) =>{
-        console.log("IN HERE")
+        console.log("HERE DATA " + data[idx]);
         if(data[idx]._hex){
-          item.value = Number(data[idx]._hex) 
+          item.name === 'price' ? item.value = utils.formatEther(data[idx]._hex) : item.value = Number(data[idx]._hex)  
         } else {
           item.value = data[idx];
         }
@@ -90,9 +92,12 @@ const MyProjectCard = () => {
   
                   </div>
                 )
-              } else if(inputField.name === 'pause') {
+              } else {
                 return (
-                    <div><ToggleButton buttonText={inputField.value === true ? "Unpause" : "Pause"} writeFunction={inputField.writeFunction} args={!inputField.value}/></div>
+                    <div className='mb-2 '>
+                        <ToggleButton className='w-40' buttonText={inputField.value === true ? inputField.label : inputField.falseLabel} writeFunction={inputField.writeFunction} args={!inputField.value}/>
+                      </div>
+                    
                 )
               }
               })

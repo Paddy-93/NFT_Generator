@@ -21,9 +21,15 @@ contract SimpleNft is ERC721, Ownable {
   bool public paused = true;
   bool public revealed = false;
 
-  constructor() ERC721("NAME", "SYMBOL") {
-    setHiddenMetadataUri("ipfs://__CID__/hidden.json");
+  constructor(string memory _name, string memory _symbol, uint256 _cost, uint256 _maxSupply, uint256 _maxPerMint, string memory _hiddenMetadata, string memory _metadata, bool _revealed) ERC721(_name, _symbol) {
+    setHiddenMetadataUri(_hiddenMetadata);
+    setUriPrefix(_metadata);
+    revealed = _revealed;
+    cost = _cost;
+    maxSupply = _maxSupply;
+    maxMintAmountPerTx = _maxPerMint;
   }
+
 
   modifier mintCompliance(uint256 _mintAmount) {
     require(_mintAmount > 0 && _mintAmount <= maxMintAmountPerTx, "Invalid mint amount!");

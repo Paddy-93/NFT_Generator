@@ -12,6 +12,8 @@ const CreateContractForm = () => {
     const initialConstructors = [
       {name: "contractName", value: "", label: "Contract Name "},
       {name: "symbol", value: "", label: "Symbol "},
+      {name: "metadata", value: "", label: "Metadata "},
+      {name: "hiddenMetaData", value: "", label: "Hidden Metadata "},    
       {name:"price", value: ".05", label: "Price "},
       {name: "totalSupply", value: 10000, label: "Total Supply "},
       {name: "maxMintAmount", value: 5, label: "Max Mint Amount "}
@@ -20,10 +22,11 @@ const CreateContractForm = () => {
     const [nftConstructors, setNftConstructors] = useState(initialConstructors);
 
     const handleCreateClick = async() => {
-      const [contractName, symbol, price, totalSupply, maxMintAmount] = nftConstructors;
+      const [contractName, symbol, metadata, hiddenMetaData, price, totalSupply, maxMintAmount] = nftConstructors;
       let factory = new ContractFactory(simpleNftJson.abi, simpleNftJson.bytecode, signer);
 
-      let contract = await factory.deploy(contractName.value,symbol.value,utils.parseEther(price.value),totalSupply.value,maxMintAmount.value);
+      debugger;
+      let contract = await factory.deploy(contractName.value,symbol.value,utils.parseEther(price.value),totalSupply.value,maxMintAmount.value, hiddenMetaData.value, metadata.value, false);
       // console.log(contract.address);
       // console.log(contract.deployTransaction.hash);
       await contract.deployed()
