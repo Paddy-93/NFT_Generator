@@ -15,7 +15,8 @@ import ConnectWalletButton from './components/ConnectWalletButton';
 import { Route, Routes } from 'react-router-dom';
 import ContractCreate from './pages/ContractCreate';
 import Navbar from './components/Navbar';
-import MyProject from './pages/MyProject';
+import ProjectPage from './pages/ProjectPage';
+import Home from './pages/Home';
 
 const App = () => {
   const { chains, provider } = configureChains(
@@ -43,8 +44,11 @@ const App = () => {
       <ConnectWalletButton/>
       <Navbar/>
       <Routes>
+
+        <Route exact path="/" element={<Home/>}/>
         <Route exact path="/new" element={<ContractCreate/>}/>
-        <Route exact path="/projects/:contractId" element={<MyProject/>}/>
+        <Route exact path="/projects/:contractId" element={<ProjectPage/>}/>
+        
       </Routes>
       </RainbowKitProvider>
     </WagmiConfig>

@@ -1,16 +1,16 @@
-import React, {useState, useEffect} from 'react'
-import { useSigner, useContractRead, useContractReads } from 'wagmi'
+import React, {useState} from 'react'
+import { useContractReads } from 'wagmi'
 
-import { StyledButton, StyledForm, StyledInput, StyledLabel } from '../../AppStyles.styles.tw';
+import { StyledForm, StyledInput, StyledLabel } from '../../AppStyles.styles.tw';
 import { useParams } from 'react-router'
-import { utils, BigNumber } from 'ethers';
+import { utils } from 'ethers';
 import ToggleButton from './ToggleButton';
 
 import ContractWriteButton from './ContractWriteButton';
 import { simpleNftJson } from '../../contracts/SimpleNftJson';
 
 const MyProjectCard = () => {
-  const { data: signer } = useSigner()
+  // const { data: signer } = useSigner()
   const { contractId } = useParams()
 
   const initialTextInputData = [
@@ -20,7 +20,6 @@ const MyProjectCard = () => {
     {name: "maxMintAmount", value: 5, label: "Max Mint Amount ", readFunction: "maxMintAmountPerTx", inputType: "number", writeFunction: "setMaxMintAmountPerTx"},
     {name: "reveal", value: null, label: "Hide", readFunction: "revealed", inputType: "toggle", writeFunction: "setRevealed", falseLabel: "Reveal"},
     {name:"pause", value: null, label: "Unpause", readFunction:"paused", inputType: "toggle", writeFunction: "setPaused", falseLabel: "Pause"},
-    
   ]
 
   const [textInputData, setTextInputData] = useState(initialTextInputData);
@@ -43,7 +42,7 @@ const MyProjectCard = () => {
   })
 
   /*Update initial values with data read from contract*/
-  const { data, isError, isLoading } = useContractReads({
+  useContractReads({
     contracts: contractReads,
     onSuccess(data) {
       const newData =  textInputData.map((item,idx) =>{
@@ -81,17 +80,17 @@ const MyProjectCard = () => {
             {
             textInputData.map((inputField, index) => {
                 if(!(inputField.inputType==='toggle')){
-                return (
-                  <div key={inputField.name} className='flex justify-center mb-2'>
+                  return (
+                    <div key={inputField.name} className='flex justify-center mb-2'>
+                      
+                      <StyledLabel className='' htmlFor={inputField.name}>{inputField.label} : </StyledLabel>
                     
-                    <StyledLabel className='' htmlFor={inputField.name}>{inputField.label} : </StyledLabel>
-                   
-                    <StyledInput className="mr-2" onChange={handleInputChange} type={inputField.inputType} min="0" step=".1" name={inputField.name} id={inputField.name} value={inputField.value}/>
-                   
-                    <ContractWriteButton  writeFunction={inputField.writeFunction} args={inputField.name === 'price' ? utils.parseEther(inputField.value+"") : inputField.value}/>
-  
-                  </div>
-                )
+                      <StyledInput className="mr-2" onChange={handleInputChange} type={inputField.inputType} min="0" step=".1" name={inputField.name} id={inputField.name} value={inputField.value}/>
+                    
+                      <ContractWriteButton  writeFunction={inputField.writeFunction} args={inputField.name === 'price' ? utils.parseEther(inputField.value+"") : inputField.value}/>
+    
+                    </div>
+                  )
               } else {
                 return (
                     <div className='mb-2 '>

@@ -43,11 +43,11 @@ const CreateContractForm = () => {
     }
 
     return (
-      <StyledForm>
+      <div className=''>
             {
             nftConstructors.map((constructor, index) => {
                 return (
-                  <div key={constructor.name} className='flex justify-center mb-2'>
+                  <div key={constructor.name} className = 'flex justify-center mb-2'>
                     <StyledLabel className='' htmlFor={constructor.name}>{constructor.label} : </StyledLabel>
                     <StyledInput  onChange={handleInputChange} type="input" name={constructor.name} id={constructor.name} value={constructor.value}/>
                   </div>
@@ -56,7 +56,7 @@ const CreateContractForm = () => {
             }
             <br/>
             <StyledButton className='place-content-center w-/12' onClick={handleCreateClick}>Create New NFT</StyledButton>
-      </StyledForm>
+      </div>
       )
 }
 
