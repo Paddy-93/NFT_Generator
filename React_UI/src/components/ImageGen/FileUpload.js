@@ -12,7 +12,8 @@ const FileUpload = () => {
     const clickHandler  = () => {
       var uploadServ = UploadService.upload(selectedFile, (event) => {
       }).then(result =>{
-        // console.log(result);
+        console.log("HERE RESULT")
+         console.log(result);
       });
       console.log(uploadServ);
     }
