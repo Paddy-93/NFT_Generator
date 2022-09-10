@@ -4,6 +4,7 @@ const path = require('path');               // Used for manipulation with path
 const fs = require('fs');             // Classic fs
 const cors = require("cors");
 const unzipper = require('unzipper');
+const {genArt} = require('./artGenerator.js')
 
 
 const app = express(); // Initialize the express web server
@@ -19,8 +20,12 @@ var corsOptions = {
   };
   
   app.use(cors());
+  app.use(express.json());
 
-
+  app.route('/genimages').post((req, res, next) => {
+   console.log("GEN IMAGES "+req.body.layers);
+   genArt(req.body.layers, req.body.dirName, req.body.numEditions);
+  });
 
 /**
  * Create route /upload which handles the post request
@@ -31,7 +36,7 @@ app.route('/upload').post((req, res, next) => {
     req.pipe(req.busboy); // Pipe it trough busboy
 
     req.busboy.on('file', (fieldname, file, filename) => {
-        tempFileName =  Date.now()+filename.filename;
+        tempFileName =  Date.now()+'?'+filename.filename;
         console.log('Upload of '+filename+' started');
         // Create a write stream of the new file
         const fstream = fs.createWriteStream(path.join(uploadPath, tempFileName));
@@ -48,8 +53,9 @@ app.route('/upload').post((req, res, next) => {
             var stream = fs.createReadStream('./fileupload/'+tempFileName).pipe(unzipper.Extract({ path: 'output/'+directoryName }));
             stream.on('finish', function () { 
             data = getDirectories("./output/"+directoryName+"/"+filename.filename.split(".zip")[0]);
-            // console.log("DATA IS "+data)
-            res.send(data);
+             console.log("DATA TO SEND IS "+data)
+            const responseData = {layerOrder: data, directoryName: directoryName}
+            res.send(responseData);
             });
 
             const getDirectories = source =>

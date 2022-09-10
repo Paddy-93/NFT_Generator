@@ -17,10 +17,20 @@ const upload = async (file, onUploadProgress) => {
       "Content-Type": "multipart/form-data",
     }
   });
+  console.log("THIS PART "+JSON.stringify(response))
   return response;
-  // console.log("THIS PART "+JSON.stringify(response))
+   
 
 };
+
+const genImages = (_layers, dirName, numEditions) => {
+  var postLayers = _layers.map((layer, idx)=>{
+      return {name: layer}
+  })
+  postLayers = {layers: postLayers, dirName: dirName, numEditions:numEditions}
+   console.log("HERE " + JSON.stringify(postLayers))
+   return http.post("/genimages", postLayers)
+}
 
 const getFiles = () => {
   return http.get("/files");
@@ -29,6 +39,7 @@ const getFiles = () => {
 const FileUploadService = {
   upload,
   getFiles,
+  genImages,
 };
 
 export default FileUploadService; 

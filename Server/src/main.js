@@ -5,7 +5,7 @@ const { stringify } = require("querystring");
 const sha1 = require(`${basePath}/node_modules/sha1`);
 const { createCanvas, loadImage } = require(`${basePath}/node_modules/canvas`);
 const buildDir = `${basePath}/build`;
-const layersDir = `${basePath}/layers`;
+const layersDir = `${basePath}/output`;
 const {
   format,
   baseUri,
@@ -86,10 +86,11 @@ const getElements = (path) => {
     });
 };
 
-const layersSetup = (layersOrder) => {
+const layersSetup = (layersOrder, dirName) => {
+  const partialDirName = dirName.split("?")[1];
   const layers = layersOrder.map((layerObj, index) => ({
     id: index,
-    elements: getElements(`${layersDir}/${layerObj.name}/`),
+    elements: getElements(`${layersDir}/${dirName}/${partialDirName}/${layerObj.name}/`),
     name:
       layerObj.options?.["displayName"] != undefined
         ? layerObj.options?.["displayName"]
@@ -334,7 +335,8 @@ function shuffle(array) {
   return array;
 }
 
-const startCreating = async (layerConfigurations) => {
+const startCreating = async (layerConfigurations, dirName) => {
+  console.log("CREATING WITH "+JSON.stringify(layerConfigurations))
   let layerConfigIndex = 0;
   let editionCount = 1;
   let failedCount = 0;
@@ -355,7 +357,7 @@ const startCreating = async (layerConfigurations) => {
   console.log(layerConfigurations[layerConfigIndex].layersOrder+ " AND INDEX "+layerConfigIndex);
   while (layerConfigIndex < layerConfigurations.length) {
     const layers = layersSetup(
-      layerConfigurations[layerConfigIndex].layersOrder
+      layerConfigurations[layerConfigIndex].layersOrder, dirName
     );
     while (
       editionCount <= layerConfigurations[layerConfigIndex].growEditionSizeTo

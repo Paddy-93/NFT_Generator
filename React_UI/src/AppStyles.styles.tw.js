@@ -26,3 +26,12 @@ export const StyledButton = styled.button.attrs({
     className: 'content-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'
 })``;
 
+export const StyledH1 = styled.button.attrs({
+    className: 'text-center text-gray-700 text-2xl font-bold'
+})``;
+
+
+export const StyledHeader = styled.h1.attrs({
+    classname: 'text-center text-gray-700 text-2xl font-bold'
+})``;
+

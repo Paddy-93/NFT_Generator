@@ -1,15 +1,15 @@
 const basePath = process.cwd();
 const { startCreating, buildSetup } = require(`${basePath}/src/main.js`);
 
-function genArt(layers){
+function genArt(layers, dirName, numEditions){
   var layerConfigurations = [
     {
-      growEditionSizeTo: 5,
+      growEditionSizeTo: numEditions,
       layersOrder: layers,
     }
   ];
   buildSetup();
-  startCreating(layerConfigurations);
+  startCreating(layerConfigurations, dirName);
 }
 
 module.exports = { genArt };
