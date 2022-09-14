@@ -1,0 +1,4292 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "209d4a44e53496bcdf59f8faf63637c5bc21fe7a",
+    "edition": 1,
+    "date": 1663180934431,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyered"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "raincloud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Grey"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "c08d82c673ef83e8692cb87a38d96b9abddeb609",
+    "edition": 2,
+    "date": 1663180934468,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyewhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "3d_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Blue beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_BLUE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "823dfc9442a1a2cd8aa5757cb263909265e64bcf",
+    "edition": 3,
+    "date": 1663180934503,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "FOX"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablered"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bill The Butcher Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "82cdf05b320cb33cf4e25496b4fe9aa5914e07d8",
+    "edition": 4,
+    "date": 1663180934758,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "SILVER"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablered"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bill The Butcher Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Soccer Jersey2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "ea4a60d0fcc516b319da58b2240c3a0c37d8b1c4",
+    "edition": 5,
+    "date": 1663180934792,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyered"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "raincloud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "punk_jacket"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "1566b2730a66684ba62691a0234d378e6e63f2d8",
+    "edition": 6,
+    "date": 1663180934825,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  PURPLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyewhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "aviators_cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "64ff103fe11ebac23262af5eb88d4e7ccca41e2a",
+    "edition": 7,
+    "date": 1663180935076,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "SILVER"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chromie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "eb4d44850cf81594c4f76e0a3eeff4ca006eebe7",
+    "edition": 8,
+    "date": 1663180935132,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "FOX"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openred"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "3d_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "grail"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "6213ff45cec6cad0d8b0d2966a51d68b79d71fe3",
+    "edition": 9,
+    "date": 1663180935165,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "FOX"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiouspurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "blackrimmed_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "e3fa7fa09c5b115736b204db299021cf302b2bff",
+    "edition": 10,
+    "date": 1663180935199,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablegreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "aviators_cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "a64f11aea74728256d7d4a901e1064d31419823a",
+    "edition": 1,
+    "date": 1663180946969,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "dancing_flame"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_RED"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "4a244269eb273594fa58c0a1b7fe117deccbe2e0",
+    "edition": 2,
+    "date": 1663180947029,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "karate_band"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_BLUE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "fa3f12e7ed799e74d8af5e91b9a41adb956eace3",
+    "edition": 3,
+    "date": 1663180947097,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openred"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "9ebfeaa17a9f68e3cf73e2007d56e43b48196ca0",
+    "edition": 4,
+    "date": 1663180947134,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  WHITE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrygreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "4f32fbec4d2fd2049273ba2e442dc7124991e9cf",
+    "edition": 5,
+    "date": 1663180947190,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "aviators_cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "56dc3a28d1f626d31f8b708e244150dfd23726b4",
+    "edition": 6,
+    "date": 1663180947228,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedwhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Green beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "c59743efd303509309a02e1103adbe930677e969",
+    "edition": 7,
+    "date": 1663180947269,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyewhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "3d_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "bandana"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Soccer Jersey1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "141e7e6be4e1120f8bc991d9c2126ae36cb6a018",
+    "edition": 8,
+    "date": 1663180947311,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "White Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "650b5409a0aa84732c5e510a676854fe69409e0c",
+    "edition": 9,
+    "date": 1663180947348,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedpurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Pint"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "5c044b855713ad1365f84c6b014c0d7efe1ec913",
+    "edition": 10,
+    "date": 1663180947408,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrygreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Green beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "b557ffa26d9cafa0242f35597c799ada495940be",
+    "edition": 11,
+    "date": 1663180947453,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablewhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "forest_ranger"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Space Suit"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "3728c670f018f1eaaa577522e87d19731b2cac53",
+    "edition": 12,
+    "date": 1663180947513,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedgreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Raccoon HAT"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "78ef553675209493ce308651aa23a6c3f1f6f890",
+    "edition": 13,
+    "date": 1663180947559,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedgreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "bandana"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "White Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "e0a4f2d05cee61209687e19f18caefc493f4eea7",
+    "edition": 14,
+    "date": 1663180947620,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "diamond"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "c2210d6ba36a9b44eaee05be8ffa7c4359553d57",
+    "edition": 15,
+    "date": 1663180947676,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyepurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "eyepatch R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "queens_crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "a64a605d7234a625ab722d0927f6f95e747893b1",
+    "edition": 16,
+    "date": 1663180947750,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "ENLIGHTENED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openEmpty"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "feccbcf56df81bfca49932f515ba223a533acb30",
+    "edition": 17,
+    "date": 1663180947806,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "dancing_flame"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "508d194ba34041bc08ff80b7c1f5ae9f64fcd268",
+    "edition": 18,
+    "date": 1663180947860,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  WHITE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "halo"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "c8f474f9dd40785c3de767a773a38976fdd1dbe1",
+    "edition": 19,
+    "date": 1663180947915,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angryblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "crescent_talisman"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "38c85f187b96d260ca1ab433e970250c097d02d3",
+    "edition": 20,
+    "date": 1663180947949,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "flowers"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "0efff89ef42131e2fabe17105443be09b91bb191",
+    "edition": 21,
+    "date": 1663180948005,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "8f138c10fe175096f632f51ef0c8ee5a6fce5b5c",
+    "edition": 22,
+    "date": 1663180948062,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Red"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "3d_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chromie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "7514ccb4b130e6340742b8aa9588c74e14e7c2db",
+    "edition": 23,
+    "date": 1663180948124,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bill The Butcher Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "465907dd2fe6c4027aaeddfe2bea3c5630c9d76e",
+    "edition": 24,
+    "date": 1663180948158,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedred"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "eyepatch R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP_hat BLUE"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "4f462db82d9b00f6dff7abd482d528d9883c9534",
+    "edition": 25,
+    "date": 1663180948191,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyegreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "queens_crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "1340e8844a3c7059a1e30576d6ef1f2b0b0cab3e",
+    "edition": 26,
+    "date": 1663180948223,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrygreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "blackrimmed_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "cowboy_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "905b32037ff039714bd93260f64650b1d6fdf093",
+    "edition": 27,
+    "date": 1663180948255,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "rubber_duck"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "24e7bde49e503ff46cdd255666417f6e2895e247",
+    "edition": 28,
+    "date": 1663180948288,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrypurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "grail"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "aa1021b53d2a85c3591b01efe90ef9df170d5505",
+    "edition": 29,
+    "date": 1663180948323,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angryblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "moon_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "3020c1359eaf0249aec0c1a48bf301f9c28dd2ca",
+    "edition": 30,
+    "date": 1663180948362,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "heros_cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "da25d8cd7819301ec4505542dfe56fc80d4e9f19",
+    "edition": 31,
+    "date": 1663180948396,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "3d_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "tiara"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "4adfdbc589347d89fb273527b826bff1692c2390",
+    "edition": 32,
+    "date": 1663180948472,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP LOGO"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "4331ac9ccfae8709c22a2e869eb2535f1a3f8e66",
+    "edition": 33,
+    "date": 1663180948527,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "ead0c1995f478ab0de2f864038866ea3e1aa338b",
+    "edition": 34,
+    "date": 1663180948559,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyepurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "crescent_talisman Silver"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "eff45e5e7a9b71cf056eae1f8bfe8dd5e7bc4619",
+    "edition": 35,
+    "date": 1663180948851,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyeblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Pint"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "7f82bf103a092b738cb45f9785c40888b25d475f",
+    "edition": 36,
+    "date": 1663180949269,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Green Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "5ae636c1ca71b8fda77fc69baff534aa701d4074",
+    "edition": 37,
+    "date": 1663180949310,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablepurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "f7dc460b408cdbee7dc123f75e11c7a678653b64",
+    "edition": 38,
+    "date": 1663180949362,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "3d_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "crescent_talisman"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "eeb04690a495a5db486f79d190d0d7c1f37eb01f",
+    "edition": 39,
+    "date": 1663180949402,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyegreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "cowboy_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Soccer Jersey2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "625160ccf1c432fa24512a2ce77518439a710e50",
+    "edition": 40,
+    "date": 1663180949444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "AngryRed"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "crescent_talisman"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Game stop Space Suit"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #41",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "ba9d2dc920e0fbbb23c03ad7c649ff7c59bec776",
+    "edition": 41,
+    "date": 1663180949484,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "lincoln"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #42",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "0589866eb6284f4d130ffb52659adb5b5b7bd576",
+    "edition": 42,
+    "date": 1663180949523,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "headband"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #43",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "967b218ae04c5a74b195d3bd3a431933e4f72777",
+    "edition": 43,
+    "date": 1663180949562,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  PURPLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyewhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP_hat BLUE"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #44",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "ede0782b1aefc2f3d5abedc1df3a191a3d50087c",
+    "edition": 44,
+    "date": 1663180949633,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #45",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "049aca456c6a058a2d6e419198aed9c13e09507c",
+    "edition": 45,
+    "date": 1663180949880,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wall street bets"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #46",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "99997cc3369b7e0dbff82507974d040c274dc16a",
+    "edition": 46,
+    "date": 1663180950109,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wall street bets"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #47",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "1b956440b5f882cded3544aea69ed08d2d65f321",
+    "edition": 47,
+    "date": 1663180950163,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyepurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "forest_ranger"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #48",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "a7f1b403b4d190fa07ac5be1e73ef020232f5f57",
+    "edition": 48,
+    "date": 1663180950195,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrygreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #49",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "db4500c11a891fb33129015f6da2bf787daae924",
+    "edition": 49,
+    "date": 1663180950228,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "moon_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #50",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "2d233a4e41abcef97015a4ffbf7abf4ae4cc454f",
+    "edition": 50,
+    "date": 1663180950262,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "eyepatch R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #51",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "12c889c867702405863a9488013fcc5362a7d07b",
+    "edition": 51,
+    "date": 1663180950315,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Grey"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedred"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "headphones"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #52",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "ed4c2f412ad6a46e988813156dcde6b6857d413c",
+    "edition": 52,
+    "date": 1663180950373,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openwhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #53",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "b3a7e7bf6e3f36da728e2072f50e35a7aa441ab5",
+    "edition": 53,
+    "date": 1663180950408,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedpurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "flowers"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "White Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #54",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "1ccf3f7ed204de9b8006a33120d047c1df64e781",
+    "edition": 54,
+    "date": 1663180950442,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "FOX"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angryblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "eyepatch R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "queens_crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #55",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "5f44657cdc0309f0bec94da43bd98c5f63cd1485",
+    "edition": 55,
+    "date": 1663180950479,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "witchs_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #56",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "0d126b682cd3517478aacc43e8419299895bc691",
+    "edition": 56,
+    "date": 1663180950531,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chromie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #57",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "efde9be301429e04c7f8513550b7ff0b90f8296d",
+    "edition": 57,
+    "date": 1663180950564,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrygreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Soviet Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #58",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "ad26384552ae29e2cbefb70805d1fc98b6dd0cab",
+    "edition": 58,
+    "date": 1663180950799,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablered"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP LOGO"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Space Suit"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #59",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "8053d8339815b37b7035da1cd37ccd376657d307",
+    "edition": 59,
+    "date": 1663180950832,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "None"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #60",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "3777f041a72fef16d9dab09abf73665ea14a1d22",
+    "edition": 60,
+    "date": 1663180950864,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedred"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "bandana"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #61",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "143cd81ef4c224ffdad383714d8033ff6e1d1a47",
+    "edition": 61,
+    "date": 1663180950922,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablegreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP_hat Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #62",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "1ba030a50d1f8fe3bc95ecf5edab8ac5371e7445",
+    "edition": 62,
+    "date": 1663180950973,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "AngryRed"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP_hat BLUE"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #63",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "94810f062a58b1fc39805b758a4a07520fa137c4",
+    "edition": 63,
+    "date": 1663180951415,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "AngryRed"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wall street bets"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #64",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "2a83c823c4f9fdc2d45778194dc7810f057381b2",
+    "edition": 64,
+    "date": 1663180951449,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "FOX"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedpurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "forest_ranger"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Blue Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #65",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "63c2e7c7e297f9f91c50c2a1dddbeaf3eae69634",
+    "edition": 65,
+    "date": 1663180951482,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  WHITE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "side eyeblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "forest_ranger"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Green Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #66",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "9ba14e05315d1f33b12f1a18b36aa49c70ca2abb",
+    "edition": 66,
+    "date": 1663180951729,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "AngryRed"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wall street bets"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #67",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "310a95c9fa4ef5a0fbd4908485c1a993735c0901",
+    "edition": 67,
+    "date": 1663180951782,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablewhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bill The Butcher Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "RED Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #68",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "c7a7975ce7d789e2579d61b1d320fbbe5d585b9e",
+    "edition": 68,
+    "date": 1663180951813,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "AngryRed"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "LOOP_hat BLUE"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #69",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "f1b53da6fba688ef68646c5d8e53a2a6295223f2",
+    "edition": 69,
+    "date": 1663180951845,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Jobs glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "crescent_talisman"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "White Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #70",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "c2a36d9ef2e6f3328805fa6fdfd2d06ec5dc7935",
+    "edition": 70,
+    "date": 1663180952100,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openwhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Blue beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #71",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "13426114d2730d6b24e879a4aabecdd2f1e9e969",
+    "edition": 71,
+    "date": 1663180952172,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  PURPLE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Yellow Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #72",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "016be27aaa30a4f8044dc110c13f467cf55fe206",
+    "edition": 72,
+    "date": 1663180952407,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedwhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "queens_crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #73",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "4747c18490a4227ea06256cb2ec6ac3e0cf16e01",
+    "edition": 73,
+    "date": 1663180952441,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorableblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "blackrimmed_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "wizards_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #74",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "b92e134fc8d57706c12643fd470e383d4b11ed40",
+    "edition": 74,
+    "date": 1663180952474,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiouswhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "Blue Visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "crescent_talisman"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Soccer Jersey1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #75",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "06daec005ea9a86158326aa001f328439499510e",
+    "edition": 75,
+    "date": 1663180952718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  WHITE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LOOP EYES"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wall street bets"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #76",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "e68147cbe923187c94eeceb8e0700a7bc2677c57",
+    "edition": 76,
+    "date": 1663180952789,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "lincoln"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #77",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "17dffcd484eeeda80992618cb37e184a0e574155",
+    "edition": 77,
+    "date": 1663180952851,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "opengreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "dancing_flame"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #78",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "ec910c9157dd10a22a10b45c2636281f3d5706ce",
+    "edition": 78,
+    "date": 1663180952907,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry white"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "witchs_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (2)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #79",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "49d9d79816e6c8b30067f623ee00466c52777849",
+    "edition": 79,
+    "date": 1663180952939,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PURPLE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedwhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "flowers"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #80",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "b778365eef2d3d8c4a6dee2949b80d2700617cfb",
+    "edition": 80,
+    "date": 1663180952995,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  PINK"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_green"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #81",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "88af4d4e2e57463c0180fa7a8fcb941d476e88ef",
+    "edition": 81,
+    "date": 1663180953030,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiouswhite"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "witchs_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_RED"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #82",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "52c5626980dde7cd088cba11da6addcf8930cc09",
+    "edition": 82,
+    "date": 1663180953069,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiouspurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "gazelles R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "tiny_crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (6)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Grey"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #83",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "75c3dd492b5a0c33b5558e630af669f98d52d048",
+    "edition": 83,
+    "date": 1663180953104,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREY"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiouspurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wildfire"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Game stop Space Suit"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #84",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "bf42f769eacd7f9586a4611aee7b7bb4b3b5eea9",
+    "edition": 84,
+    "date": 1663180953147,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "eyepatch R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Ranger Rick"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (4)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #85",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "4101b53947cb8bdbe0193b484b1b1217315dcf78",
+    "edition": 85,
+    "date": 1663180953200,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Grey"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablegreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "beanie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #86",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "4b8b99067f0d142e6fcd9b542a00bc8f7fd46434",
+    "edition": 86,
+    "date": 1663180953252,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablegreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "grail"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (5)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #87",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "fad8936695bd5e22d1f4904115a9c9915675183f",
+    "edition": 87,
+    "date": 1663180953305,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "EYES"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "openred"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "rubber_duck"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #88",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "44488f353f9870bd71734c3bc61c1b222267ba25",
+    "edition": 88,
+    "date": 1663180953339,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  GREEN"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bill The Butcher Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #89",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "73bf2f910990b5e5c135086100879d65d1593b8c",
+    "edition": 89,
+    "date": 1663180953413,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enlightened Purple"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedskeleton"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "mohawk_pink"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #90",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "85189f5e8de828a4835518a8b21ea81450b94cee",
+    "edition": 90,
+    "date": 1663180953649,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "cowboy_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #91",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "3df1557145fbcb67f9e000e9674c7144fe8c2159",
+    "edition": 91,
+    "date": 1663180953682,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 3  WHITE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrypurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Wildfire"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Grey"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #92",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "05cea1d4704a8f0c597f6ee8d23f19765457f631",
+    "edition": 92,
+    "date": 1663180953736,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  GREY"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angryblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "blackrimmed_glasses R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "bucket_hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (8)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #93",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "27e40a11cd42e94eb3516887073157297e1aaf4e",
+    "edition": 93,
+    "date": 1663180953768,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PINK"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorablepurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chromie"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #94",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "472a42cb1cf2ec05361c8130a4765c62833dc117",
+    "edition": 94,
+    "date": 1663180953800,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Red"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  BLUE"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorableblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "karate_band"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "hoodie_Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #95",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "aeed559efc5e228f5023062340ece00c887eee15",
+    "edition": 95,
+    "date": 1663180953832,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "JADE"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 5  purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgold"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "dancing_flame"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "White Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #96",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "f4f50f8d2713768c14fb1161374e3464334c7e6c",
+    "edition": 96,
+    "date": 1663180953865,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YELLOW"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "relaxedblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "eyepatch R"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "karate_band 2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (3)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "RED Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #97",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "c8259c665d64c4a3b3c11f605af8c5d2b7d29614",
+    "edition": 97,
+    "date": 1663180953919,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  Black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "curiousgreen"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "durag"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Suit Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #98",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "084f016bea65f95dcb09b8134a9e5dfef1e01643",
+    "edition": 98,
+    "date": 1663180953977,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GREEN"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "Body 6  White"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "adorableblue"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "queens_crown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Tuxedo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #99",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "46bcb5be8155d6561208f58e0938ddd81a76f318",
+    "edition": 99,
+    "date": 1663180954014,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 1  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "AngryRed"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "rosecolored_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "raincloud"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose _ Mouth (1)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "Yellow Shirt"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #100",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/100.png",
+    "dna": "1a782801aa11c59c8755392a3e8bc60180dac4f3",
+    "edition": 100,
+    "date": 1663180954047,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background"
+      },
+      {
+        "trait_type": "Body tail",
+        "value": "BODY 2  RED"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angrypurple"
+      },
+      {
+        "trait_type": "Eye Wear",
+        "value": "visor"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "aviators_cap"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nose_Mouth (7)"
+      },
+      {
+        "trait_type": "outer wear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

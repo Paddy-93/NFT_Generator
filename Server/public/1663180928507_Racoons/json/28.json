@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #28",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "24e7bde49e503ff46cdd255666417f6e2895e247",
+  "edition": 28,
+  "date": 1663180948288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREY"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angrypurple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "visor"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "grail"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (1)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

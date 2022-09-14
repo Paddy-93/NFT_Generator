@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #82",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/82.png",
+  "dna": "52c5626980dde7cd088cba11da6addcf8930cc09",
+  "edition": 82,
+  "date": 1663180953069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 2  Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiouspurple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "gazelles R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "tiny_crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (6)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "hoodie_Grey"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

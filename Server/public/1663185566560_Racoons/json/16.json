@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #16",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "a64a605d7234a625ab722d0927f6f95e747893b1",
+  "edition": 16,
+  "date": 1663180947750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "YELLOW"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "ENLIGHTENED"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "openEmpty"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "mohawk_pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (5)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

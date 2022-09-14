@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #11",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "b557ffa26d9cafa0242f35597c799ada495940be",
+  "edition": 11,
+  "date": 1663180947453,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorablewhite"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "forest_ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (8)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Space Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #69",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/69.png",
+  "dna": "f1b53da6fba688ef68646c5d8e53a2a6295223f2",
+  "edition": 69,
+  "date": 1663180951845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 1  Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiousgold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Jobs glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "crescent_talisman"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (6)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "White Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -4,7 +4,7 @@ const fs = require("fs");
 const { stringify } = require("querystring");
 const sha1 = require(`${basePath}/node_modules/sha1`);
 const { createCanvas, loadImage } = require(`${basePath}/node_modules/canvas`);
-const buildDir = `${basePath}/build`;
+const buildDir = `${basePath}/public`;
 const layersDir = `${basePath}/output`;
 const {
   format,
@@ -33,15 +33,15 @@ const HashlipsGiffer = require(`${basePath}/modules/HashlipsGiffer.js`);
 
 let hashlipsGiffer = null;
 
-const buildSetup = () => {
-  if (fs.existsSync(buildDir)) {
-    fs.rmdirSync(buildDir, { recursive: true });
+const buildSetup = (dirName) => {
+  if (fs.existsSync(`${buildDir}/${dirName}`)) {
+    fs.rmdirSync(`${buildDir}/${dirName}`, { recursive: true });
   }
-  fs.mkdirSync(buildDir);
-  fs.mkdirSync(`${buildDir}/json`);
-  fs.mkdirSync(`${buildDir}/images`);
+  fs.mkdirSync(`${buildDir}/${dirName}`);
+  fs.mkdirSync(`${buildDir}/${dirName}/json`);
+  fs.mkdirSync(`${buildDir}/${dirName}/images`);
   if (gif.export) {
-    fs.mkdirSync(`${buildDir}/gifs`);
+    fs.mkdirSync(`${buildDir}/${dirName}/gifs`);
   }
 };
 
@@ -87,7 +87,7 @@ const getElements = (path) => {
 };
 
 const layersSetup = (layersOrder, dirName) => {
-  const partialDirName = dirName.split("?")[1];
+  const partialDirName = dirName.split("_")[1];
   const layers = layersOrder.map((layerObj, index) => ({
     id: index,
     elements: getElements(`${layersDir}/${dirName}/${partialDirName}/${layerObj.name}/`),
@@ -111,9 +111,9 @@ const layersSetup = (layersOrder, dirName) => {
   return layers;
 };
 
-const saveImage = (_editionCount) => {
+const saveImage = (_editionCount, dirName) => {
   fs.writeFileSync(
-    `${buildDir}/images/${_editionCount}.png`,
+    `${buildDir}/${dirName}/images/${_editionCount}.png`,
     canvas.toBuffer("image/png")
   );
 };
@@ -304,11 +304,11 @@ const createDna = (_layers) => {
   return randNum.join(DNA_DELIMITER);
 };
 
-const writeMetaData = (_data) => {
-  fs.writeFileSync(`${buildDir}/json/_metadata.json`, _data);
+const writeMetaData = (_data, dirName) => {
+  fs.writeFileSync(`${buildDir}/${dirName}/json/_metadata.json`, _data);
 };
 
-const saveMetaDataSingleFile = (_editionCount) => {
+const saveMetaDataSingleFile = (_editionCount,dirName) => {
   let metadata = metadataList.find((meta) => meta.edition == _editionCount);
   debugLogs
     ? console.log(
@@ -316,7 +316,7 @@ const saveMetaDataSingleFile = (_editionCount) => {
       )
     : null;
   fs.writeFileSync(
-    `${buildDir}/json/${_editionCount}.json`,
+    `${buildDir}/${dirName}/json/${_editionCount}.json`,
     JSON.stringify(metadata, null, 2)
   );
 };
@@ -404,9 +404,9 @@ const startCreating = async (layerConfigurations, dirName) => {
           debugLogs
             ? console.log("Editions left to create: ", abstractedIndexes)
             : null;
-          saveImage(abstractedIndexes[0]);
+          saveImage(abstractedIndexes[0], dirName);
           addMetadata(newDna, abstractedIndexes[0]);
-          saveMetaDataSingleFile(abstractedIndexes[0]);
+          saveMetaDataSingleFile(abstractedIndexes[0], dirName);
           console.log(
             `Created edition: ${abstractedIndexes[0]}, with DNA: ${sha1(
               newDna
@@ -429,7 +429,7 @@ const startCreating = async (layerConfigurations, dirName) => {
     }
     layerConfigIndex++;
   }
-  writeMetaData(JSON.stringify(metadataList, null, 2));
+  writeMetaData(JSON.stringify(metadataList, null, 2),dirName);
 };
 
 module.exports = { startCreating, buildSetup, getElements };

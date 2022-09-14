@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #22",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/22.png",
+  "dna": "8f138c10fe175096f632f51ef0c8ee5a6fce5b5c",
+  "edition": 22,
+  "date": 1663180948062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiousgold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "3d_glasses R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "chromie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (1)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

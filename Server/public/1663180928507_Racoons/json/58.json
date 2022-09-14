@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #58",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/58.png",
+  "dna": "ad26384552ae29e2cbefb70805d1fc98b6dd0cab",
+  "edition": 58,
+  "date": 1663180950799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorablered"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "LOOP LOGO"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Space Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

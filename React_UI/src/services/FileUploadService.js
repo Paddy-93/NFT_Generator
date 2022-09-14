@@ -17,7 +17,7 @@ const upload = async (file, onUploadProgress) => {
       "Content-Type": "multipart/form-data",
     }
   });
-  console.log("THIS PART "+JSON.stringify(response))
+  // console.log("THIS PART "+JSON.stringify(response))
   return response;
    
 
@@ -28,8 +28,12 @@ const genImages = (_layers, dirName, numEditions) => {
       return {name: layer}
   })
   postLayers = {layers: postLayers, dirName: dirName, numEditions:numEditions}
-   console.log("HERE " + JSON.stringify(postLayers))
+  //  console.log("GEN IMAGES " + JSON.stringify(postLayers))
    return http.post("/genimages", postLayers)
+}
+
+const previewImages = (_layers, dirName) => {
+      return genImages(_layers,dirName,10);
 }
 
 const getFiles = () => {
@@ -40,6 +44,7 @@ const FileUploadService = {
   upload,
   getFiles,
   genImages,
+  previewImages,
 };
 
 export default FileUploadService; 

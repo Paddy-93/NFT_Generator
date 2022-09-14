@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #39",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/39.png",
+  "dna": "eeb04690a495a5db486f79d190d0d7c1f37eb01f",
+  "edition": 39,
+  "date": 1663180949402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "PINK"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 5  purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "side eyegreen"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "cowboy_hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (5)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Soccer Jersey2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #65",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/65.png",
+  "dna": "63c2e7c7e297f9f91c50c2a1dddbeaf3eae69634",
+  "edition": 65,
+  "date": 1663180951482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  WHITE"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "side eyeblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "visor"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "forest_ranger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Green Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

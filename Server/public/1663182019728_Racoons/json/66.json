@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #66",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/66.png",
+  "dna": "9ba14e05315d1f33b12f1a18b36aa49c70ca2abb",
+  "edition": 66,
+  "date": 1663180951729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "AngryRed"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "gazelles R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Wall street bets"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

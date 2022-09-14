@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #73",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/73.png",
+  "dna": "4747c18490a4227ea06256cb2ec6ac3e0cf16e01",
+  "edition": 73,
+  "date": 1663180952441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "JADE"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 5  PINK"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorableblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "blackrimmed_glasses R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "wizards_hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (8)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

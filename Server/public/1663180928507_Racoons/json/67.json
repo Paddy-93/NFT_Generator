@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #67",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/67.png",
+  "dna": "310a95c9fa4ef5a0fbd4908485c1a993735c0901",
+  "edition": 67,
+  "date": 1663180951782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "PINK"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorablewhite"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Jobs glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Bill The Butcher Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "RED Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

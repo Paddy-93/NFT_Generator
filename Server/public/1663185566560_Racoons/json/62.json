@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #62",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/62.png",
+  "dna": "1ba030a50d1f8fe3bc95ecf5edab8ac5371e7445",
+  "edition": 62,
+  "date": 1663180950973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "EYES"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "AngryRed"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Blue Visor"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "LOOP_hat BLUE"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (5)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

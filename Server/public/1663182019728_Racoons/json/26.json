@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #26",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "1340e8844a3c7059a1e30576d6ef1f2b0b0cab3e",
+  "edition": 26,
+  "date": 1663180948223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 2  PINK"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angrygreen"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "blackrimmed_glasses R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "cowboy_hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (4)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

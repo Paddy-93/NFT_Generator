@@ -8,9 +8,14 @@ const {genArt} = require('./artGenerator.js')
 
 
 const app = express(); // Initialize the express web server
+
+console.log(" DIR NAME " + __dirname)
 app.use(busboy({
     highWaterMark: 2 * 1024 * 1024, // Set 2MiB buffer
 })); // Insert the busboy middle-ware
+
+
+
 
 const uploadPath = path.join(__dirname, 'fileupload'); // Register the upload path
 
@@ -22,21 +27,34 @@ var corsOptions = {
   app.use(cors());
   app.use(express.json());
 
+//   app.use(express.static(__dirname + "/public"));
+
+app.use('/images', express.static(__dirname+'/public/'))
+
+  console.log(__dirname);
+
   app.route('/genimages').post((req, res, next) => {
    console.log("GEN IMAGES "+req.body.layers);
    genArt(req.body.layers, req.body.dirName, req.body.numEditions);
   });
 
-/**
- * Create route /upload which handles the post request
- */
+
+  app.route('/previewimages').post((req, res, next) => {
+    console.log("GEN IMAGES "+req.body.layers);
+    genArt(req.body.layers, req.body.dirName, 10);
+
+   });
+
+// /**
+//  * Create route /upload which handles the post request
+//  */
 app.route('/upload').post((req, res, next) => {
     var data;
     var tempFileName;
     req.pipe(req.busboy); // Pipe it trough busboy
 
     req.busboy.on('file', (fieldname, file, filename) => {
-        tempFileName =  Date.now()+'?'+filename.filename;
+        tempFileName =  Date.now()+'_'+filename.filename;
         console.log('Upload of '+filename+' started');
         // Create a write stream of the new file
         const fstream = fs.createWriteStream(path.join(uploadPath, tempFileName));
@@ -70,6 +88,9 @@ app.route('/upload').post((req, res, next) => {
     });
 });
 
+// app.use(express.static(__dirname +'/build/'));
+
+// app.use('/images', express.static(__dirname+'/build/'))
 
 /**
  * Serve the basic index.html with upload form
@@ -84,5 +105,5 @@ app.route('/').get((req, res) => {
 });
 
 const server = app.listen(3001, function () {
-    console.log(`Listening here on port ${server.address().port}`);
+    console.log(`Listening here on pfdsort ${server.address().port}`);
 });

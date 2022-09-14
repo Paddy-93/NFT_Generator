@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #30",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "dna": "3020c1359eaf0249aec0c1a48bf301f9c28dd2ca",
+  "edition": 30,
+  "date": 1663180948362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiousgold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "heros_cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Suit Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

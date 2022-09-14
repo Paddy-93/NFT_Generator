@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #60",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/60.png",
+  "dna": "3777f041a72fef16d9dab09abf73665ea14a1d22",
+  "edition": 60,
+  "date": 1663180950864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedred"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

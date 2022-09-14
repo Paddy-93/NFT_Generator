@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #19",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "c8f474f9dd40785c3de767a773a38976fdd1dbe1",
+  "edition": 19,
+  "date": 1663180947915,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angryblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "crescent_talisman"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (6)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Tuxedo Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

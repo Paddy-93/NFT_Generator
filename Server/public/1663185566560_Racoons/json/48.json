@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #48",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "a7f1b403b4d190fa07ac5be1e73ef020232f5f57",
+  "edition": 48,
+  "date": 1663180950195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 1  Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angrygreen"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Suit Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

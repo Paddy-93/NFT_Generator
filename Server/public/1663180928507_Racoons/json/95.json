@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #95",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/95.png",
+  "dna": "aeed559efc5e228f5023062340ece00c887eee15",
+  "edition": 95,
+  "date": 1663180953832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "JADE"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 5  purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiousgold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "dancing_flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "White Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

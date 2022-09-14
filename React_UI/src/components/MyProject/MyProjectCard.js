@@ -46,13 +46,12 @@ const MyProjectCard = () => {
     contracts: contractReads,
     onSuccess(data) {
       const newData =  textInputData.map((item,idx) =>{
-        console.log("HERE DATA " + data[idx]);
         if(data[idx]._hex){
           item.name === 'price' ? item.value = utils.formatEther(data[idx]._hex) : item.value = Number(data[idx]._hex)  
         } else {
           item.value = data[idx];
         }
-        console.log(item)
+        // console.log(item)
         return item;  
       })
       setTextInputData(newData);

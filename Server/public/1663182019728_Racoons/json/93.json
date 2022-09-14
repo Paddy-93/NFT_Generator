@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #93",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/93.png",
+  "dna": "27e40a11cd42e94eb3516887073157297e1aaf4e",
+  "edition": 93,
+  "date": 1663180953768,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "PINK"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 1  Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorablepurple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "chromie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (1)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Suit Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

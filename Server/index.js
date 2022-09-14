@@ -43,7 +43,6 @@ app.get('/',function(req,res){
 });
 
 app.post('/api/uploadFile',function(req,res){
-  console.log("HERE 2");
     upload(req,res,function(err) {
         if(err) {
             return res.end("Error uploading file.");

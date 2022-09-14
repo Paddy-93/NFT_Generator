@@ -13,10 +13,10 @@ import { alchemyProvider } from 'wagmi/providers/alchemy';
 import { publicProvider } from 'wagmi/providers/public';
 import ConnectWalletButton from './components/ConnectWalletButton';
 import { Route, Routes } from 'react-router-dom';
-import ContractCreate from './pages/ContractCreate';
 import Navbar from './components/Navbar';
 import ProjectPage from './pages/ProjectPage';
 import Home from './pages/Home';
+import ProjectCreate from './pages/ProjectCreate';
 
 const App = () => {
   const { chains, provider } = configureChains(
@@ -46,7 +46,7 @@ const App = () => {
       <Routes>
 
         <Route exact path="/" element={<Home/>}/>
-        <Route exact path="/new" element={<ContractCreate/>}/>
+        <Route exact path="/new" element={<ProjectCreate/>}/>
         <Route exact path="/projects/:contractId" element={<ProjectPage/>}/>
         
       </Routes>

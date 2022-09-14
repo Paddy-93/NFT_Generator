@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #55",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/55.png",
+  "dna": "5f44657cdc0309f0bec94da43bd98c5f63cd1485",
+  "edition": 55,
+  "date": 1663180950479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 2  GREY"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "witchs_hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Tuxedo Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -2,8 +2,9 @@ import { useContractWrite, usePrepareContractWrite } from 'wagmi'
 import { StyledButton } from '../../AppStyles.styles.tw';
 import { simpleNftJson } from '../../contracts/SimpleNftJson';
 import { useParams } from 'react-router'
+import { utils } from 'ethers';
 
-function ContractWriteButton( { buttonText="Update", writeFunction, args  }) {
+function ContractWriteButton( { buttonText="Update", writeFunction, args, etherAmt=0  }) {
 
     const {contractId} = useParams();
 
@@ -11,17 +12,17 @@ function ContractWriteButton( { buttonText="Update", writeFunction, args  }) {
         addressOrName: contractId,
         contractInterface: simpleNftJson.abi,
         functionName: writeFunction,
-        args: [args]
+        args: [args],
+        overrides: {
+          value: utils.parseEther(etherAmt+"")
+        }
     })
 
-    const { data, isLoading, isSuccess, write } = useContractWrite(config)
-    const myFunct = writeFunction;
-    const myArgs = args; 
-    const checkClick = () => {
-        console.log(writeFunction)
-        console.log(args);
-        debugger;
+    const handleClick =()=> {
+      // console.log("ETEHER " + etherAmt);
     }
+
+    const { data, isLoading, isSuccess, write } = useContractWrite(config)
 
   return (
     <StyledButton onClick={() => write()}>

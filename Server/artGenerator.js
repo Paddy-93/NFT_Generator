@@ -8,7 +8,7 @@ function genArt(layers, dirName, numEditions){
       layersOrder: layers,
     }
   ];
-  buildSetup();
+  buildSetup(dirName);
   startCreating(layerConfigurations, dirName);
 }
 

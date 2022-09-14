@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #83",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/83.png",
+  "dna": "75c3dd492b5a0c33b5558e630af669f98d52d048",
+  "edition": 83,
+  "date": 1663180953104,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREY"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  RED"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiouspurple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Wildfire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Game stop Space Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

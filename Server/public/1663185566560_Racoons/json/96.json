@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #96",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/96.png",
+  "dna": "f4f50f8d2713768c14fb1161374e3464334c7e6c",
+  "edition": 96,
+  "date": 1663180953865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "YELLOW"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 2  Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "eyepatch R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "karate_band 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "RED Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

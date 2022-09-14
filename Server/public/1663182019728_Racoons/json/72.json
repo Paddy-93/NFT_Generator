@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #72",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/72.png",
+  "dna": "016be27aaa30a4f8044dc110c13f467cf55fe206",
+  "edition": 72,
+  "date": 1663180952407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedwhite"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "queens_crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (5)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

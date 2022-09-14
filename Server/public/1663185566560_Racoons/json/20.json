@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #20",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "dna": "38c85f187b96d260ca1ab433e970250c097d02d3",
+  "edition": 20,
+  "date": 1663180947949,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "PINK"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 5  purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedgold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "rosecolored_glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "flowers"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (2)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

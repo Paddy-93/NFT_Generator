@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #53",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/53.png",
+  "dna": "b3a7e7bf6e3f36da728e2072f50e35a7aa441ab5",
+  "edition": 53,
+  "date": 1663180950408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Enlightened Purple"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 2  RED"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedpurple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "visor"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "flowers"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "White Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

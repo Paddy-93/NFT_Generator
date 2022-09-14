@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #76",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/76.png",
+  "dna": "e68147cbe923187c94eeceb8e0700a7bc2677c57",
+  "edition": 76,
+  "date": 1663180952789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "PURPLE"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 2  GREY"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "opengold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "lincoln"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Suit Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

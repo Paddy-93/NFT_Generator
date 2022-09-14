@@ -2,11 +2,9 @@ import React, {useState} from 'react'
 import { StyledButton, StyledForm, StyledH1 } from '../../AppStyles.styles.tw';
 import UploadService from "../../services/FileUploadService";
 
-const LayerOrder = ({ initLayers, directoryName}) => {
+const LayerOrder = ({ initLayers, directoryName, setData, setNextStep}) => {
     const [initialLayers, setInitialLayers] = useState(initLayers)
     const [newLayers, setNewLayers] = useState([])
-    const [numEditions, setNumEditions] = useState(10000)
-
 
     const addToNewOrder = (item,idx) => {
         setNewLayers([...newLayers,item])
@@ -22,13 +20,10 @@ const LayerOrder = ({ initLayers, directoryName}) => {
         setNewLayers(tempLayers)
     }
 
-    const handleNumEditionChange = (ev) => {
-        setNumEditions(ev.target.value);
-    }
-
-    const handleSubmit = () => {
-        console.log("SUBMIT "+numEditions)      
-        UploadService.genImages(newLayers, directoryName, numEditions);
+    const handleSubmitPreview = () => { 
+        UploadService.previewImages(newLayers, directoryName);
+        setData(newLayers, directoryName)
+        setNextStep();
     }
 
 
@@ -38,7 +33,6 @@ const LayerOrder = ({ initLayers, directoryName}) => {
         <div className='min-h-[50%] mb-4 h-4/6 bg-white'>
             {
                 newLayers.map((item,idx) => {
-                    console.log("INDEX "+idx);
                     return (
                         <div>
                         <StyledButton key={item} onClick={()=>addToInitialOrder(item,idx)} className='ml-2 mb-2'> {item} </StyledButton>
@@ -56,12 +50,12 @@ const LayerOrder = ({ initLayers, directoryName}) => {
             })
         }
         </div>
-       <div>
+       {/* <div>
            <label>Number of Images</label> <br/>
            <input onChange={handleNumEditionChange} type='number' min='0'>{}</input>
-       </div>
+       </div> */}
 
-        <StyledButton onClick={handleSubmit} >Submit</StyledButton>
+        <StyledButton onClick={handleSubmitPreview} >Generate Preview</StyledButton>
         
     </div>
   )

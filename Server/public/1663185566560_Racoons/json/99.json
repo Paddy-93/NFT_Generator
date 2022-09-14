@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #99",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/99.png",
+  "dna": "46bcb5be8155d6561208f58e0938ddd81a76f318",
+  "edition": 99,
+  "date": 1663180954014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 1  RED"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "AngryRed"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "rosecolored_glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "raincloud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (1)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Yellow Shirt"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

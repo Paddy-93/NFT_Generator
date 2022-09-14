@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #49",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/49.png",
+  "dna": "db4500c11a891fb33129015f6da2bf787daae924",
+  "edition": 49,
+  "date": 1663180950228,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Red"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 1  Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "relaxedblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "rosecolored_glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "moon_hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (4)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

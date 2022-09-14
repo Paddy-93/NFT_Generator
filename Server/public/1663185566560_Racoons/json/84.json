@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #84",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/84.png",
+  "dna": "bf42f769eacd7f9586a4611aee7b7bb4b3b5eea9",
+  "edition": 84,
+  "date": 1663180953147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 5  GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "curiousgold"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "eyepatch R"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Ranger Rick"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (4)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

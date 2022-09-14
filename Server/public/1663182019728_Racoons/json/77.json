@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #77",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/77.png",
+  "dna": "17dffcd484eeeda80992618cb37e184a0e574155",
+  "edition": 77,
+  "date": 1663180952851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "JADE"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 5  GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "opengreen"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "dancing_flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (3)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

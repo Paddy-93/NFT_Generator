@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #85",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/85.png",
+  "dna": "4101b53947cb8bdbe0193b484b1b1217315dcf78",
+  "edition": 85,
+  "date": 1663180953200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorablegreen"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (8)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

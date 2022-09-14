@@ -13,6 +13,7 @@ const FileUpload = ({ setDataCallback, setNextStep }) => {
     const clickHandler  = () => {
       var uploadServ = UploadService.upload(selectedFile, (event) => {
       }).then(result =>{
+        // console.log("NOW SET DIRECTORY " + result.data.directoryName)
         setDataCallback(result.data.layerOrder, result.data.directoryName)
         setNextStep();
       });
@@ -21,9 +22,11 @@ const FileUpload = ({ setDataCallback, setNextStep }) => {
 
     return (
       <div>
-        <StyledH1>Upload Your Files in .zip Format</StyledH1>
-        <input type="file" onChange={selectFiles} id="your-file-input" name="userPhoto" />
-        <StyledButton onClick={() => clickHandler()}>Upload Image</StyledButton>
+        <div>
+          <StyledH1>Upload Your Files in .zip Format</StyledH1>
+          <input type="file" onChange={selectFiles} id="your-file-input" name="userPhoto" />
+        </div>
+        <StyledButton onClick={() => clickHandler()}>Upload Zip</StyledButton>
       </div>
   
     )

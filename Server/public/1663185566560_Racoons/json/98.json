@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #98",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/98.png",
+  "dna": "084f016bea65f95dcb09b8134a9e5dfef1e01643",
+  "edition": 98,
+  "date": 1663180953977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GREEN"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "Body 6  White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorableblue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "rosecolored_glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "queens_crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose_Mouth (7)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "Tuxedo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

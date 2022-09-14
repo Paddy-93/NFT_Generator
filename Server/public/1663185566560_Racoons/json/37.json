@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #37",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "5ae636c1ca71b8fda77fc69baff534aa701d4074",
+  "edition": 37,
+  "date": 1663180949310,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "EYES"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "adorablepurple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "rosecolored_glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "LOOP_hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (5)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

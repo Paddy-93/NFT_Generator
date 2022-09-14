@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #57",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/57.png",
+  "dna": "efde9be301429e04c7f8513550b7ff0b90f8296d",
+  "edition": 57,
+  "date": 1663180950564,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "EYES"
+    },
+    {
+      "trait_type": "Body tail",
+      "value": "BODY 3  GREEN"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angrygreen"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Blue Visor"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Soviet Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nose _ Mouth (2)"
+    },
+    {
+      "trait_type": "outer wear",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
