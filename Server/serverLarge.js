@@ -5,9 +5,11 @@ const fs = require('fs');             // Classic fs
 const cors = require("cors");
 const unzipper = require('unzipper');
 const {genArt} = require('./artGenerator.js')
+const {uploadData} = require('./file_helper.js')
 
 
 const app = express(); // Initialize the express web server
+
 
 console.log(" DIR NAME " + __dirname)
 app.use(busboy({
@@ -33,16 +35,19 @@ app.use('/images', express.static(__dirname+'/public/'))
 
   console.log(__dirname);
 
-  app.route('/genimages').post((req, res, next) => {
-   console.log("GEN IMAGES "+req.body.layers);
-   genArt(req.body.layers, req.body.dirName, req.body.numEditions);
+  app.route('/genimages').post(async(req, res, next) => {
+    console.log("GEN IMAGES "+req.body.layers);
+   res.send ( await genArt(req.body.layers, req.body.dirName, req.body.numEditions) );
+   
+    console.log("GEN IMAGES COMPLETE Uploading");
+    // res.send( await uploadData(req.body.dirName) );
   });
 
-
-  app.route('/previewimages').post((req, res, next) => {
-    console.log("GEN IMAGES "+req.body.layers);
+  app.route('/previewimages').post(async(req, res, next) => {
+    console.log("PREVIEW IMAGES "+req.body.layers);
     genArt(req.body.layers, req.body.dirName, 10);
-
+    console.log("DONE");
+    res.send("Success");
    });
 
 // /**
@@ -60,8 +65,6 @@ app.route('/upload').post((req, res, next) => {
         const fstream = fs.createWriteStream(path.join(uploadPath, tempFileName));
         // Pipe it trough
         file.pipe(fstream);
-
-        
 
         // On finish of the upload
         fstream.on('close', () => {

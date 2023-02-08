@@ -51,6 +51,8 @@ build/Release
 
 build/
 public/
+fileupload/
+output/
 dist/
 node_modules/
 jspm_packages/
