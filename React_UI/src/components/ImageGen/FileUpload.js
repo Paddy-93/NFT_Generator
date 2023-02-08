@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyledHeader , StyledButton1, StyledH1, StyledButton} from '../../AppStyles.styles.tw';
+import { StyledH1, StyledButton} from '../../AppStyles.styles.tw';
 import UploadService from "../../services/FileUploadService";
 
 const FileUpload = ({ setDataCallback, setNextStep }) => {

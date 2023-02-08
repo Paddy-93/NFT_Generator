@@ -23,17 +23,20 @@ const upload = async (file, onUploadProgress) => {
 
 };
 
-const genImages = (_layers, dirName, numEditions) => {
+const genImages = async(_layers, dirName, numEditions, routeCall) => {
   var postLayers = _layers.map((layer, idx)=>{
       return {name: layer}
   })
   postLayers = {layers: postLayers, dirName: dirName, numEditions:numEditions}
-  //  console.log("GEN IMAGES " + JSON.stringify(postLayers))
-   return http.post("/genimages", postLayers)
+   console.log("GEN IMAGES jdfds " + JSON.stringify(postLayers))
+   var data = await http.post(routeCall ? routeCall : '/genimages', postLayers)
+   debugger;
+   console.log("Images generated " + data);
+   return data;
 }
 
 const previewImages = (_layers, dirName) => {
-      return genImages(_layers,dirName,10);
+      return genImages(_layers,dirName, 10, '/previewimages');
 }
 
 const getFiles = () => {

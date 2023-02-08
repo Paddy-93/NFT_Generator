@@ -1,11 +1,24 @@
 import React, { useState } from 'react'
-import { StyledButton } from '../../AppStyles.styles.tw';
+import { StyledButton, StyledInput } from '../../AppStyles.styles.tw';
 import PrevNextButton from '../PrevNextButton';
+import UploadService from "../../services/FileUploadService";
 
-const PreviewCard = ({directoryName, setNextStep}) => {
+const PreviewCard = ({directoryName, layerOrder, metaUriCallback, setNextStep}) => {
     // const partialDirName = directoryName.split("?")[1];
     // console.log("NEW CARD "+directoryName);
     const [previewIndex, setPreviewIndex] = useState(1);
+    const [numEditions, setNumEditions] = useState(10000);
+
+    const submitGenImages = async() => {
+       console.log("LAYERS "+layerOrder+ " DIR NAME " + directoryName+ " NUM EDITIONS " +numEditions)
+       var data = await UploadService.genImages(layerOrder, directoryName, numEditions);
+       metaUriCallback(data.data);
+       setNextStep();
+    }
+
+    const onChangeNumEditions = (ev) => {
+        setNumEditions(ev.target.value);
+    }
     
     const onNextHandler = () => {
         if(previewIndex < 10)
@@ -22,7 +35,8 @@ const PreviewCard = ({directoryName, setNextStep}) => {
     {/* <button>{`<`}</button>
     <button>{'>'}</button> */}
     <PrevNextButton nextButtonClick={onNextHandler} prevButtonClick={onPrevHandler}/>
-    <StyledButton onClick={setNextStep}>Continue</StyledButton>
+    <StyledInput type="number" onChange={onChangeNumEditions} value={numEditions}/>
+    <StyledButton onClick={submitGenImages}>Continue</StyledButton>
 
     </div>
   )
